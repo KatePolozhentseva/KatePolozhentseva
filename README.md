@@ -1,8 +1,4 @@
-<div style="text-align: center;">
 
-<img src="https://github.com/user-attachments/assets/b3500d80-d3ea-4bab-8805-5f48ee7fe50b" height="200" />
-<img src="https://github.com/user-attachments/assets/bb0ce063-f02c-4a78-bc9e-4bdb568c0660" height="200" /> 
-<img src="https://github.com/user-attachments/assets/5513bb92-d585-4239-a6b4-fd390076b688" height="200" />
 
 <div id="header" style="text-align: center;">
   <h1>Екатерина Положенцева</h1>
